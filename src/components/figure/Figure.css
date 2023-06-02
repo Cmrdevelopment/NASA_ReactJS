@@ -1,0 +1,13 @@
+figure > img {
+  height: 27rem;
+  width: 79vh;
+  object-fit: cover;
+  border-radius: 1rem;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
